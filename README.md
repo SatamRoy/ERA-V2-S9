@@ -7,4 +7,5 @@ Here we are building a CNN Image classification model for CIFAR10 dataset.
 Receptive field of 49
 GAP Layer
 Target accuracy >85% (achieved 87%)
-utility.py : - Use of albumentation library for data augmentation with horizontal flip, shiftScaleRotate and coarseDropout
+
+- **utility.py** : - Use of albumentation library for data augmentation with horizontal flip, shiftScaleRotate and coarseDropout
